@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://webpack-practice/./src/stylesheets/main.scss"],"names":[],"mappings":"AAAA,KACI,eAAgB","file":"./stylesheets/main.css","sourcesContent":["body {\n    color: lightblue;\n}\n"],"sourceRoot":""}
